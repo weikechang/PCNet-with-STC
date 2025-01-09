@@ -6,6 +6,6 @@
 {\it Significance}. The generality and modularity of the proposed hybrid model make it well-suited for addressing broader denoising and classification challenges involving multimodal and heterogeneous data.
 # Results
 ## Denoising Visualization ##
-<img src="https://github.com/weikechang/PCnet-and-STC/blob/main/Results/Denoising_Visualization.png" width="551" height="309" alt="抖音小程序"/><br/>
+<img src="https://github.com/weikechang/PCNet-with-STC/blob/main/Results/Denoising_Visualization.png" width="551" height="309" alt="抖音小程序"/><br/>
 ## Denoising and Classification Results ##
-![ezcv logo](https://github.com/weikechang/PCnet-and-STC/blob/main/Results/Classification.png)
+![ezcv logo](https://github.com/weikechang/PCNet-with-STC/blob/main/Results/Classification.png)
